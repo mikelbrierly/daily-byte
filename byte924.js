@@ -1,3 +1,5 @@
+// https://www.wikihow.com/Read-Binary
+
 const sum = (acc, num) => acc + num;
 
 const intFromBin = (binary) => binary.split('')     // convert binary string to array
